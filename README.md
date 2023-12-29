@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrMonos
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning make advenced Python projects
-- 💞️ I’m looking to collaborate on web projects with Python
+- 💞️ I’m looking to collaborate on GUI Python projects
 - 📫 How to reach me none
 
 <!---
